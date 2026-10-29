@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.jellybeast.nicknames.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "NicknameServerPlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
